@@ -1,0 +1,13 @@
+{
+	"bet": 5,
+	"decimal": 2,
+	"currency": "pts",
+	"wins":[
+        {"win": 8, "count": 200, "percent": 70},
+        {"win": 5, "count": 100, "percent": 60},
+        {"win": 10, "count": 55, "percent": 45},
+        {"win": 25, "count": 25, "percent": 35},
+        {"win": 40, "count": 5, "percent": 25},
+        {"win": 5000, "count": 3, "percent": 1}
+    ]
+}
